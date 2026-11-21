@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projects>
+    <project>
+        <title>CRC Clothing Brand</title>
+        <description>A clothing brand I co-founded that creates shirts inspired by Claret School of Quezon City.</description>
+        <date>2025</date>
+    </project>
+    <project>
+        <title>Personal Multimedia Portfolio</title>
+        <description>A portfolio showcasing my school projects, creative outputs, and design work.</description>
+        <date>2026</date>
+    </project>
+    <project>
+        <title>Multimedia Design OER</title>
+        <description>A Canva presentation about the 12 Principles of Multimedia Design.</description>
+        <date>2026</date>
+    </project>
+    <project>
+        <title>NSTP Ice Candy Fundraising Initiative</title>
+        <description>Sold ice candies to raise funds for an outreach program at Pristine Heritage Academy, where our group became teachers for a day.</description>
+    </project>
+    <project>
+        <title>Music Fest 2025 Performance</title>
+        <description>Performed a first-ever live cover of Ikaw Lang by Nobita at Claret School of Quezon City, my former school.</description>
+        <date>2025</date>
+    </project>
+</projects>
